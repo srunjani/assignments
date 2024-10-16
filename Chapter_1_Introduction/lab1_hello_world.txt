@@ -4,3 +4,4 @@ Parse it as a primitive int using
 int age = Integer.parseInt(args[2]);
 
 Print first name, last name and age of the person.
+
