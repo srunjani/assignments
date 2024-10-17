@@ -1,0 +1,5 @@
+.idea/*
+assignments.iml
+*.iml
+*.class
+out/*
